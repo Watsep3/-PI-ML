@@ -8,6 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 import scipy.stats as stats
 import statsmodels.api as sm
+from scipy.stats import ttest_ind
 
 sns.set_theme(style="whitegrid")  # Pour un style plus propre dans les graphiques
 
@@ -562,6 +563,35 @@ def main():
             st.write("=> La substance consommée impacte significativement la fréquence d'activité sociale.")
         else:
             st.write("=> Pas d'impact significatif.")
+            
+        # -----------------------------
+        # NOUVEAU TEST : Balanced Diet
+        # -----------------------------
+        st.markdown("### Test 6 : Balanced Diet vs Other Diets (T-test)")
+
+        # On retire les éventuelles valeurs NaN dans Diet et Mental_Health_Rating
+        data2 = data.dropna(subset=['Diet', 'Mental_Health_Rating'])
+
+        # Groupes : Balanced vs non-Balanced
+        balanced_diet_group = data2[data2['Diet'] == 'Balanced']['Mental_Health_Rating']
+        other_diet_group = data2[data2['Diet'] != 'Balanced']['Mental_Health_Rating']
+
+        # Test t_indépendant (Welch avec equal_var=False)
+        t_stat, p_value = ttest_ind(balanced_diet_group, other_diet_group, equal_var=False)
+
+        # Affichage des résultats dans Streamlit
+        st.write("**T-Test: Balanced Diet vs Other Diets**")
+        st.write(f"T-Statistic: `{t_stat:.4f}`")
+        st.write(f"P-Value: `{p_value:.4f}`")
+
+        if p_value < 0.05:
+            st.write("**Conclusion :** Le p-value est significatif (p < 0.05). \
+            Il existe une différence significative de mental health ratings entre les régimes équilibrés et les autres régimes.")
+        else:
+            st.write("**Conclusion :** Le p-value n'est pas significatif (p ≥ 0.05). \
+            Aucune preuve solide d'une différence dans les mental health ratings entre les régimes équilibrés et les autres régimes.")
+    
+        
 
 # ----------------------------------------------------------------------------
 # Exécuter l'application
