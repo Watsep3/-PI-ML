@@ -1,0 +1,201 @@
+Timestamp,Age,Gender,Mental_Health_Rating,Consulted_Professional,Exercise_Frequency,Hobbies,Screen_Time_Hours,Social_Media_Impact,Sleep_Hours,Sleep_Quality,Financial_Situation,Living_Arrangement,Study_Work_Hours,Employment_Status,Work_Study_Balance,Diet,Substance_Use,Substance_Frequency,Social_Activity_Frequency
+13/11/2024 17:27:48,28,Female,6,Yes,A few times a week,"Digital hobbies , Relaxation or self-care ",12.0,3,6.0,Poor,6,Family,40,Employed,2,Unhealthy,Tobacco,Frequently,3
+13/11/2024 17:41:14,23,Female,6,Yes,Rarely,"Digital hobbies , Relaxation or self-care ",8.0,1,7.0,Average,5,Family,0,Unemployed,4,Somewhat Healthy,Vape,Daily,9
+13/11/2024 18:21:55,22,Female,6,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",15.0,3,8.0,Average,7,Alone,30,Student,8,Somewhat Healthy,None,null,8
+14/11/2024 20:37:11,21,Male,7,No,A few times a week,Digital hobbies ,8.0,8,7.0,Average,8,Family,14,Student,7,Unhealthy,None,null,10
+14/11/2024 20:39:07,24,Female,7,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",14.0,1,7.0,Good,8,Family,36,Student,9,Balanced,None,null,5
+14/11/2024 20:46:37,21,Female,7,No,Rarely,Relaxation or self-care ,12.0,6,12.0,Average,6,Extended Family,24,Student,10,Very Healthy,Tobacco,Frequently,6
+14/11/2024 20:52:40,25,Male,7,No,A few times a week,"Digital hobbies , Relaxation or self-care ",7.0,6,7.0,Average,4,Alone,30,Student,6,Somewhat Healthy,Alcohol,Occasionally,9
+14/11/2024 20:55:17,23,Female,5,Yes,Rarely,Physical activities ,7.0,9,7.0,Average,7,Family,5,Unemployed,4,Somewhat Healthy,Tobacco,Rarely,9
+14/11/2024 20:55:58,61,Male,10,No,Rarely,Intellectual activities ,2.0,2,7.0,Good,7,Family,7,Employed,8,Balanced,None,null,2
+14/11/2024 20:57:22,20,Female,6,No,Rarely,Relaxation or self-care ,12.0,2,9.0,Average,1,Family,6,Student,3,Unhealthy,None,null,3
+14/11/2024 20:58:42,17,Male,6,No,Rarely,Just watch films,5.0,6,7.0,Average,6,Family,5,Student,6,Somewhat Healthy,None,null,5
+14/11/2024 21:01:58,21,Female,5,No,Rarely,Relaxation or self-care ,10.0,5,6.0,Good,7,Family,40,Student,6,Somewhat Healthy,None,Rarely,6
+14/11/2024 21:05:53,20,Female,7,No,Rarely,Relaxation or self-care ,6.0,5,8.0,Average,7,Family,28,Student,5,Balanced,None,null,5
+14/11/2024 21:06:56,21,Male,4,No,Rarely,Digital hobbies ,10.0,4,4.0,Very Poor,2,Roommates,9,Student,2,Unhealthy,None,null,1
+14/11/2024 21:19:37,16,Male,7,No,Daily,"Physical activities , Digital hobbies , Relaxation or self-care ",6.5,3,7.0,Average,8,Family,5,Both(Student and Employed),6,Somewhat Healthy,None,null,8
+14/11/2024 21:19:49,17,Male,4,No,A few times a week,"Physical activities , Creative activities , Digital hobbies , Relaxation or self-care ",8.0,7,8.0,Poor,4,Family,38,Both(Student and Employed),6,Somewhat Healthy,None,null,5
+14/11/2024 21:29:28,24,Male,7,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities ",4.0,4,7.0,Good,2,Roommates,20,Student,6,Somewhat Healthy,Sometimes but rarely tabacco,Rarely,8
+14/11/2024 21:50:35,30,Male,8,No,Daily,"Physical activities , Digital hobbies , Relaxation or self-care ",4.0,6,8.0,Good,3,Roommates,60,Employed,7,Very Healthy,Alcohol,Rarely,7
+14/11/2024 21:54:01,20,Female,8,No,Rarely,Relaxation or self-care ,4.0,4,9.0,Very Good,7,Family,20,Student,7,Balanced,None,Rarely,7
+14/11/2024 21:55:48,19,Female,6,No,Once a week,Relaxation or self-care ,5.0,3,7.0,Average,5,Family,20,Student,5,Somewhat Healthy,None,null,2
+14/11/2024 21:59:48,21,Female,6,No,Once a week,"Intellectual activities , Digital hobbies , Relaxation or self-care ",10.0,4,7.0,Average,5,Family,20,Unemployed,5,Somewhat Healthy,None,null,10
+14/11/2024 22:00:47,20,Female,8,No,Rarely,"Physical activities , Intellectual activities ",6.0,4,6.0,Average,8,Family,30,Student,6,Balanced,None,null,4
+14/11/2024 22:04:58,30,Female,5,No,Rarely,Relaxation or self-care ,12.0,5,7.0,Poor,5,Family,126,Unemployed,5,Unhealthy,None,Rarely,5
+14/11/2024 22:09:26,21,Male,5,Yes,Daily,"Physical activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",6.0,1,7.0,Average,7,Family,28,Student,7,Balanced,None,null,6
+14/11/2024 22:12:09,32,Male,6,Yes,Rarely,Digital hobbies ,12.0,2,8.0,Average,7,Family,35,Employed,5,Unhealthy,"Tobacco, Alcohol, Drugs",Frequently,3
+14/11/2024 22:36:31,20,Female,9,No,A few times a week,Digital hobbies ,6.0,9,8.0,Average,5,Family,30,Student,3,Somewhat Healthy,None,null,7
+14/11/2024 22:58:34,21,Female,7,No,Rarely,"Physical activities , Creative activities , Relaxation or self-care ",7.0,5,7.0,Poor,5,Family,44,Student,7,Somewhat Healthy,None,null,5
+14/11/2024 23:01:15,21,Male,8,No,A few times a week,"Physical activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",9.0,8,6.0,Average,7,Family,6,Student,6,Somewhat Healthy,None,null,9
+14/11/2024 23:25:10,23,Male,8,Yes,Daily,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",3.0,1,7.0,Very Poor,5,Family,20,Student,10,Balanced,None,null,3
+14/11/2024 23:40:00,20,Male,4,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",12.0,8,8.0,Average,10,Family,15,Student,9,Somewhat Healthy,Alcohol,Rarely,4
+14/11/2024 23:40:16,29,Male,6,No,Never,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",5.0,1,8.5,Good,7,Family,20,Employed,9,Balanced,Drugs,Frequently,6
+14/11/2024 23:46:18,21,Male,7,No,Once a week,Physical activities ,4.0,3,6.0,Average,5,Family,26,Student,8,Somewhat Healthy,Tobacco,null,10
+15/11/2024 00:28:04,20,Female,5,Yes,A few times a week,Intellectual activities ,3.0,8,4.0,Average,5,Family,80,Both(Student and Employed),9,Somewhat Healthy,None,Rarely,6
+15/11/2024 00:33:04,25,Male,7,Yes,Daily,"Physical activities , Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",6.0,5,9.0,Average,4,Roommates,45,Both(Student and Employed),4,Balanced,None,null,3
+15/11/2024 00:36:36,20,Male,3,No,Never,"Digital hobbies , Relaxation or self-care ",10.0,7,9.0,Average,6,Alone,25,Student,3,Unhealthy,None,Rarely,4
+15/11/2024 00:40:40,20,Male,6,No,Daily,"Physical activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",6.0,4,6.0,Poor,10,Family,14,Student,5,Somewhat Healthy,None,null,6
+15/11/2024 00:43:29,21,Male,7,No,A few times a week,"Physical activities , Intellectual activities , Relaxation or self-care ",6.0,7,6.0,Very Poor,7,Roommates,57,Both(Student and Employed),7,Unhealthy,None,null,6
+15/11/2024 00:48:14,26,Female,4,Yes,A few times a week,"Creative activities , Relaxation or self-care ",12.0,7,6.0,Poor,3,Family,40,Employed,5,Somewhat Healthy,"Alcohol, Drugs",Frequently,3
+15/11/2024 01:00:26,21,Male,7,Yes,A few times a week,"Physical activities , Digital hobbies , Relaxation or self-care ",9.0,3,9.0,Good,7,Alone,20,Both(Student and Employed),10,Somewhat Healthy,None,null,5
+15/11/2024 01:11:54,26,Female,9,Yes,A few times a week,"Creative activities , Intellectual activities , Digital hobbies ",8.0,1,7.0,Good,8,Family,40,Employed,8,Balanced,Alcohol,Frequently,10
+15/11/2024 01:38:52,18,Male,7,No,Daily,"Physical activities , Digital hobbies ",4.0,5,8.0,Good,10,Family,5,Student,6,Balanced,None,null,7
+15/11/2024 02:28:24,18,Female,3,Yes,A few times a week,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",1.0,9,8.0,Good,5,Family,30,Both(Student and Employed),8,Somewhat Healthy,None,null,7
+15/11/2024 02:46:06,27,Male,4,No,A few times a week,"Digital hobbies , Relaxation or self-care ",7.0,6,7.0,Good,4,Alone,40,Both(Student and Employed),4,Somewhat Healthy,"Alcohol, Drugs",Occasionally,4
+15/11/2024 06:17:49,36,Female,5,Yes,A few times a week,"Physical activities , Intellectual activities ",10.0,2,9.0,Poor,9,Family,40,Employed,8,Balanced,None,null,2
+15/11/2024 07:06:24,18,Female,8,No,A few times a week,"Physical activities , Creative activities , Digital hobbies ",6.0,6,9.0,Good,8,Family,4,Student,5,Somewhat Healthy,None,null,8
+15/11/2024 07:46:56,20,Female,4,No,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",9.0,5,5.0,Average,6,Family,30,Student,3,Somewhat Healthy,None,null,5
+15/11/2024 08:21:23,18,Female,6,Yes,Rarely,"Creative activities , Intellectual activities ",5.0,6,7.0,Average,7,Roommates,30,Student,4,Unhealthy,None,null,7
+15/11/2024 09:18:23,20,Female,10,No,Rarely,"Creative activities , Intellectual activities , Relaxation or self-care ",8.0,4,7.0,Poor,5,Family,21,Student,5,Somewhat Healthy,None,null,7
+15/11/2024 09:51:17,46,Male,8,No,Rarely,"Digital hobbies , Fishing",3.0,6,6.0,Average,8,Family,40,Employed,7,Unhealthy,None,null,9
+15/11/2024 10:08:26,22,Female,5,No,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",15.0,3,5.0,Average,7,Alone,35,Student,3,Somewhat Healthy,None,null,3
+15/11/2024 11:12:03,29,Male,9,No,Never,"Digital hobbies , Relaxation or self-care ",12.0,2,7.0,Poor,4,Alone,25,Employed,7,Balanced,Alcohol,Frequently,4
+15/11/2024 11:34:35,20,Female,5,No,Rarely,"Creative activities , Intellectual activities , Digital hobbies ",24.0,6,4.0,Average,7,Family,6,Student,7,Balanced,None,null,4
+15/11/2024 11:49:01,19,Female,4,No,Never,"Intellectual activities , Digital hobbies ",11.0,2,9.0,Poor,2,Family,0,Unemployed,5,Unhealthy,None,null,3
+15/11/2024 14:38:49,25,Female,7,No,Rarely,"Creative activities , Relaxation or self-care ",6.0,8,6.0,Average,8,Roommates,20,Student,5,Balanced,None,null,2
+15/11/2024 15:24:12,28,Female,5,No,Daily,"Physical activities , Relaxation or self-care ",20.0,4,4.0,Average,5,Family,39,Employed,4,Balanced,"Tobacco, Alcohol",Occasionally,3
+15/11/2024 15:27:01,33,Male,9,No,Daily,Creative activities ,4.0,2,8.0,Good,10,Family,60,Employed,9,Balanced,Tobacco,Occasionally,2
+15/11/2024 15:28:37,20,Male,8,No,A few times a week,Physical activities ,5.0,5,9.0,Poor,6,Family,20,Employed,7,Balanced,None,null,6
+15/11/2024 15:29:16,30,Male,7,No,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",7.0,8,7.0,Average,9,Alone,42,Employed,4,Somewhat Healthy,"Tobacco, Alcohol, Drugs",Occasionally,8
+15/11/2024 15:35:08,59,Female,7,Yes,A few times a week,Intellectual activities ,3.0,2,7.0,Average,6,Family,7,Employed,5,Balanced,None,null,8
+15/11/2024 15:56:55,21,Female,5,No,Rarely,"Digital hobbies , Relaxation or self-care ",18.0,7,5.0,Poor,3,Roommates,21,Both(Student and Employed),4,Somewhat Healthy,None,null,5
+15/11/2024 17:36:25,22,Male,6,No,Daily,"Physical activities , Creative activities ",7.0,9,9.0,Good,6,Family,6,Unemployed,7,Very Healthy,None,null,8
+15/11/2024 18:39:10,27,Male,8,Yes,Once a week,"Creative activities , Intellectual activities , Digital hobbies ",6.0,9,7.0,Average,4,Family,40,Both(Student and Employed),8,Balanced,Alcohol,Frequently,10
+15/11/2024 20:01:31,25,Female,7,Yes,Daily,"Creative activities , Relaxation or self-care ",4.0,1,6.0,Good,5,Family,5,Both(Student and Employed),5,Balanced,None,null,8
+15/11/2024 21:14:03,21,Male,7,No,Daily,Physical activities ,6.0,9,6.0,Average,7,Family,30,Student,6,Balanced,None,Occasionally,5
+15/11/2024 21:15:35,19,Female,7,Yes,A few times a week,Creative activities ,3.0,9,10.0,Poor,7,Alone,0,Student,1,Unhealthy,Tobacco,Occasionally,6
+15/11/2024 21:16:03,21,Male,7,No,Daily,Physical activities ,4.0,6,7.0,Average,6,Roommates,25,Student,7,Somewhat Healthy,None,null,8
+15/11/2024 21:16:45,22,Male,4,No,Rarely,"Creative activities , Digital hobbies , Relaxation or self-care ",7.0,3,7.0,Poor,5,Family,25,Student,6,Unhealthy,None,null,3
+15/11/2024 21:16:52,21,Female,8,No,Rarely,Relaxation or self-care ,8.0,7,6.0,Good,9,Family,30,Student,4,Somewhat Healthy,None,null,5
+15/11/2024 21:18:20,21,Male,7,No,A few times a week,"Physical activities , Digital hobbies ",4.0,4,6.0,Average,5,Roommates,10,Student,6,Somewhat Healthy,None,null,5
+15/11/2024 21:18:22,20,Male,7,No,A few times a week,"Physical activities , Digital hobbies ",8.0,6,6.0,Average,5,Family,33,Student,4,Somewhat Healthy,None,null,2
+15/11/2024 21:20:03,23,Male,8,No,Rarely,Digital hobbies ,11.0,8,8.0,Good,3,Roommates,65,Student,3,Somewhat Healthy,None,Rarely,2
+15/11/2024 21:23:09,19,Female,5,No,A few times a week,Creative activities ,10.0,6,6.0,Poor,6,Family,20,Student,4,Somewhat Healthy,None,null,9
+15/11/2024 21:24:42,18,Female,8,No,A few times a week,"Physical activities , Creative activities ",8.0,6,7.0,Good,9,Family,42,Student,9,Somewhat Healthy,None,null,5
+15/11/2024 21:26:00,20,Female,8,No,Never,"watching films, drawing, painting occasionally ",6.0,5,7.0,Very Good,5,Family,6,Student,5,Balanced,None,null,4
+15/11/2024 21:26:32,19,Female,10,No,Rarely,Relaxation or self-care ,7.0,8,7.0,Poor,5,Family,7,Student,5,Somewhat Healthy,None,null,6
+15/11/2024 21:29:58,19,Female,4,No,Once a week,"Creative activities , Digital hobbies ",6.0,7,5.0,Poor,8,Family,48,Student,4,Somewhat Healthy,None,null,7
+15/11/2024 21:33:16,22,Male,1,Prefer not to say,Rarely,"Physical activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",12.0,10,7.0,Very Poor,1,Family,2,Student,1,Unhealthy,"Tobacco, Alcohol, Drugs, Morphine ",Daily,1
+15/11/2024 21:33:19,22,Female,8,No,Never,Relaxation or self-care ,4.0,7,8.0,Very Good,6,Family,30,Student,6,Balanced,None,null,6
+15/11/2024 21:33:43,18,Male,5,No,A few times a week,Physical activities ,6.0,3,8.0,Poor,3,Alone,5,Student,4,Balanced,None,Rarely,3
+15/11/2024 21:33:56,18,Female,6,No,Rarely,Relaxation or self-care ,6.0,2,8.0,Average,5,Alone,40,Student,4,Somewhat Healthy,None,null,7
+15/11/2024 21:34:12,21,Female,7,Yes,A few times a week,"Physical activities , Intellectual activities , Relaxation or self-care ",4.0,5,6.0,Average,8,Family,50,Student,4,Balanced,None,null,7
+15/11/2024 21:38:12,18,Female,7,No,A few times a week,Physical activities ,3.0,8,6.0,Good,7,Family,11,Student,8,Unhealthy,None,null,6
+15/11/2024 21:39:15,21,Female,5,No,Rarely,Relaxation or self-care ,14.0,8,7.0,Average,10,Family,35,Student,3,Somewhat Healthy,None,null,5
+15/11/2024 21:39:25,21,Female,7,Yes,Rarely,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",7.0,8,6.0,Poor,1,Family,32,Student,1,Very Healthy,None,null,3
+15/11/2024 21:39:44,20,Female,6,No,Rarely,"Physical activities , Intellectual activities , Relaxation or self-care ",6.0,5,7.0,Average,6,Family,20,Student,5,Somewhat Healthy,None,null,5
+15/11/2024 21:40:38,21,Female,6,No,A few times a week,"Physical activities , Creative activities , Digital hobbies ",7.0,8,5.0,Poor,6,Family,12,Student,5,Unhealthy,None,null,5
+15/11/2024 21:41:36,21,Female,4,No,A few times a week,"Physical activities , Creative activities , Intellectual activities ",6.0,8,8.0,Good,7,Family,24,Student,5,Balanced,None,null,4
+15/11/2024 21:41:48,20,Female,7,No,Rarely,"Creative activities , Intellectual activities , Relaxation or self-care ",5.0,6,9.0,Good,6,Family,16,Student,8,Somewhat Healthy,None,null,4
+15/11/2024 21:42:08,20,Male,6,No,Daily,"Physical activities , Digital hobbies , Relaxation or self-care ",9.0,8,6.0,Very Poor,4,Family,3,Student,5,Somewhat Healthy,Alcohol,Rarely,3
+15/11/2024 21:42:20,22,Male,8,No,Once a week,"Physical activities , Digital hobbies ",7.0,7,7.0,Poor,7,Alone,6,Both(Student and Employed),6,Unhealthy,None,null,7
+15/11/2024 21:43:25,18,Female,6,No,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",3.0,7,7.0,Average,1,Family,15,Student,5,Balanced,None,null,5
+15/11/2024 21:45:08,21,Female,7,No,A few times a week,"Physical activities , Creative activities , Intellectual activities , Relaxation or self-care ",9.0,8,7.0,Good,7,Alone,13,Student,6,Balanced,None,null,8
+15/11/2024 21:51:52,21,Male,10,No,A few times a week,"Physical activities , Digital hobbies , Relaxation or self-care ",3.0,1,6.0,Good,7,Alone,30,Student,6,Somewhat Healthy,None,null,5
+15/11/2024 21:52:10,18,Female,6,Yes,A few times a week,"Creative activities , Relaxation or self-care ",5.0,5,7.0,Poor,3,Family,24,Student,6,Somewhat Healthy,medication,Daily,5
+15/11/2024 21:52:12,21,Male,5,No,Rarely,"Digital hobbies , Relaxation or self-care ",12.0,7,8.0,Good,3,Family,24,Student,5,Balanced,None,null,1
+15/11/2024 21:53:02,20,Female,7,No,A few times a week,"Creative activities , Intellectual activities , Relaxation or self-care ",3.0,1,7.0,Good,2,Alone,40,Student,4,Somewhat Healthy,None,null,8
+15/11/2024 22:02:02,20,Male,8,No,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,7,8.0,Average,5,Family,24,Student,3,Balanced,None,null,9
+15/11/2024 22:02:08,17,Male,7,No,A few times a week,"Physical activities , Intellectual activities , Digital hobbies ",3.0,4,7.0,Average,5,Family,27,Student,6,Somewhat Healthy,None,null,4
+15/11/2024 22:05:05,22,Male,4,Yes,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",10.0,6,7.0,Average,10,Family,6,Student,8,Unhealthy,"Tobacco, Alcohol, Drugs",Frequently,5
+15/11/2024 22:06:29,21,Female,10,Prefer not to say,Once a week,Relaxation or self-care ,1.0,3,7.0,Good,9,Family,9,Student,7,Very Healthy,None,Occasionally,10
+15/11/2024 22:08:59,22,Male,9,No,Daily,"Physical activities , Digital hobbies ",4.0,2,7.0,Average,6,Alone,42,Student,6,Somewhat Healthy,None,null,7
+15/11/2024 22:10:13,21,Male,7,Yes,A few times a week,"Physical activities , Creative activities ",4.0,9,8.0,Good,6,Roommates,10,Student,2,Very Healthy,"Tobacco, Alcohol",Frequently,7
+15/11/2024 22:14:20,21,Male,8,Yes,Rarely,Intellectual activities ,8.0,5,6.0,Average,6,Alone,30,Student,7,Somewhat Healthy,Tobacco,Occasionally,3
+15/11/2024 22:17:17,20,Male,8,No,A few times a week,"Physical activities , Intellectual activities , Digital hobbies ",6.0,5,7.0,Good,6,Family,50,Both(Student and Employed),3,Balanced,None,null,10
+15/11/2024 22:17:25,21,Male,10,No,A few times a week,"Physical activities , Intellectual activities ",8.0,10,7.0,Very Good,1,Roommates,10,Student,1,Somewhat Healthy,None,null,10
+15/11/2024 22:28:27,22,Female,5,Yes,Rarely,Creative activities ,6.0,8,5.0,Average,5,Roommates,42,Employed,8,Somewhat Healthy,"Tobacco, Alcohol",Frequently,8
+15/11/2024 22:32:27,20,Male,6,No,Rarely,Relaxation or self-care ,12.0,3,7.0,Good,7,Alone,35,Student,5,Unhealthy,None,null,5
+15/11/2024 22:38:44,21,Male,3,Yes,Rarely,"Intellectual activities , Digital hobbies ",16.0,6,10.0,Average,1,Alone,2,Student,3,Unhealthy,Tobacco,Daily,3
+15/11/2024 22:40:18,21,Female,8,No,Once a week,"Physical activities , Creative activities , Relaxation or self-care ",5.0,2,7.0,Average,9,Family,35,Student,5,Balanced,None,null,6
+15/11/2024 22:40:34,21,Male,9,No,Rarely,Digital hobbies ,10.0,4,7.0,Average,5,Alone,10,Both(Student and Employed),6,Unhealthy,None,null,2
+15/11/2024 22:45:05,21,Female,6,No,Once a week,"Intellectual activities , Relaxation or self-care ",6.0,3,7.0,Very Good,8,Family,30,Student,5,Very Healthy,None,null,4
+15/11/2024 22:57:06,23,Female,8,Yes,Once a week,"Creative activities , Intellectual activities , Digital hobbies ",2.0,1,6.0,Average,5,Family,44,Employed,7,Somewhat Healthy,None,null,10
+15/11/2024 23:09:38,20,Male,4,No,Rarely,"Digital hobbies , Relaxation or self-care ",6.0,8,6.0,Average,5,Alone,20,Student,4,Somewhat Healthy,None,null,2
+15/11/2024 23:15:39,20,Female,7,No,A few times a week,"Intellectual activities , Digital hobbies ",4.0,3,6.0,Average,6,Family,30,Student,8,Balanced,None,null,3
+15/11/2024 23:20:07,21,Male,4,No,Once a week,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,4,8.0,Very Good,3,Roommates,16,Student,8,Somewhat Healthy,"Tobacco, Alcohol",Rarely,2
+15/11/2024 23:22:58,18,Female,3,No,Rarely,"Creative activities , Intellectual activities ",6.0,6,3.0,Very Poor,8,Family,56,Student,4,Somewhat Healthy,None,null,4
+16/11/2024 00:10:47,21,Male,6,No,Daily,"Physical activities , Digital hobbies ",7.0,6,7.0,Good,4,Alone,30,Student,5,Unhealthy,None,null,4
+16/11/2024 00:34:40,23,Male,7,No,Once a week,Digital hobbies ,5.0,8,6.0,Poor,1,Family,0,Unemployed,1,Balanced,None,null,3
+16/11/2024 00:48:21,21,Female,7,Yes,A few times a week,"Physical activities , Intellectual activities , Relaxation or self-care ",4.0,3,7.0,Average,7,Family,38,Student,6,Somewhat Healthy,None,null,5
+16/11/2024 00:51:44,20,Female,8,Yes,Daily,"Physical activities , Relaxation or self-care ",6.0,5,10.0,Very Good,4,Family,8,Student,10,Balanced,"Tobacco, Alcohol, Drugs",Occasionally,10
+16/11/2024 01:29:26,21,Male,7,No,A few times a week,"Physical activities , Digital hobbies ",5.0,2,6.0,Poor,5,Family,20,Student,2,Somewhat Healthy,None,null,4
+16/11/2024 02:00:19,21,Male,7,No,Once a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,8,7.0,Good,5,Alone,28,Both(Student and Employed),5,Somewhat Healthy,Alcohol,Occasionally,6
+16/11/2024 02:21:59,20,Male,6,No,Rarely,"Creative activities , Intellectual activities ",12.0,10,7.0,Good,6,Roommates,6,Student,3,Unhealthy,"Tobacco, Alcohol, psychedelics",Occasionally,7
+16/11/2024 04:36:01,19,Female,5,No,A few times a week,"Physical activities , Intellectual activities , Relaxation or self-care ",8.0,3,7.0,Average,4,Extended Family,5,Student,4,Somewhat Healthy,None,Rarely,1
+16/11/2024 06:05:01,17,Female,4,Yes,Once a week,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care , Playing my instrument + marching band",15.0,3,6.5,Average,8,Family,40,Student,4,Balanced,None,null,8
+16/11/2024 06:50:13,24,Female,7,Prefer not to say,Rarely,Relaxation or self-care ,4.0,4,8.0,Good,10,Alone,42,Employed,1,Unhealthy,None,null,4
+16/11/2024 12:36:27,21,Female,3,No,A few times a week,"Physical activities , Relaxation or self-care ",8.0,6,6.0,Good,6,Family,12,Student,3,Balanced,None,null,8
+16/11/2024 12:37:11,20,Female,8,Yes,Rarely,"Creative activities , Digital hobbies ",6.0,6,9.0,Very Good,9,Alone,38,Student,9,Somewhat Healthy,None,null,9
+16/11/2024 12:37:25,21,Male,6,Yes,A few times a week,Physical activities ,2.0,6,4.0,Poor,2,Extended Family,4,Student,5,Very Healthy,None,Rarely,1
+16/11/2024 12:39:40,21,Male,7,No,A few times a week,"Physical activities , Digital hobbies ",8.0,4,7.0,Good,8,Family,22,Student,5,Somewhat Healthy,None,null,6
+16/11/2024 12:39:57,20,Female,6,No,Rarely,"Creative activities , Intellectual activities , Relaxation or self-care ",6.0,4,8.0,Average,6,Family,6,Both(Student and Employed),7,Somewhat Healthy,"Alcohol, Drugs",Frequently,8
+16/11/2024 12:40:24,21,Female,4,Yes,Daily,Physical activities ,5.0,8,7.0,Poor,5,Alone,7,Student,5,Balanced,None,Rarely,5
+16/11/2024 12:40:33,21,Female,6,Yes,A few times a week,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",6.0,6,7.0,Poor,7,Alone,2,Student,5,Balanced,"Tobacco, Alcohol",Frequently,7
+16/11/2024 12:42:38,21,Female,8,Yes,A few times a week,"Creative activities , Relaxation or self-care ",3.0,5,7.0,Average,8,Family,25,Both(Student and Employed),7,Balanced,None,null,10
+16/11/2024 12:45:22,20,Male,8,No,A few times a week,Physical activities ,3.0,7,8.0,Good,7,Family,26,Student,4,Somewhat Healthy,None,null,10
+16/11/2024 12:49:30,50,Female,10,No,A few times a week,"Physical activities , Intellectual activities ",3.0,4,6.0,Very Good,9,Family,3,Unemployed,8,Balanced,None,null,5
+16/11/2024 12:51:54,23,Male,9,No,Once a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",6.0,7,6.0,Poor,5,Roommates,30,Employed,8,Balanced,None,Rarely,2
+16/11/2024 12:53:59,22,Female,8,No,Once a week,"Physical activities , Intellectual activities , Relaxation or self-care ",3.0,5,7.0,Average,7,Roommates,30,Student,7,Somewhat Healthy,None,null,3
+16/11/2024 12:57:47,21,Female,5,Yes,Rarely,Relaxation or self-care ,7.0,7,7.0,Poor,6,Alone,4,Both(Student and Employed),5,Unhealthy,None,null,8
+16/11/2024 13:00:35,22,Male,7,No,Daily,"Physical activities , Digital hobbies ",10.0,6,6.0,Good,5,Roommates,6,Student,5,Very Healthy,None,null,2
+16/11/2024 13:05:50,13,Female,3,No,Daily,"Physical activities , Digital hobbies ",4.0,1,8.0,Good,6,Family,2,Student,8,Somewhat Healthy,None,Rarely,6
+16/11/2024 13:08:07,21,Female,6,Yes,Never,Relaxation or self-care ,5.0,9,6.0,Average,7,Alone,48,Student,6,Somewhat Healthy,None,Rarely,2
+16/11/2024 13:13:58,18,Male,6,No,A few times a week,"Physical activities , Creative activities ",5.0,5,8.0,Average,5,Family,31,Student,6,Balanced,None,null,4
+16/11/2024 14:24:33,19,Female,5,Prefer not to say,Rarely,"Creative activities , Relaxation or self-care ",11.0,5,6.0,Average,5,Alone,21,Student,3,Unhealthy,None,null,4
+16/11/2024 14:24:44,21,Female,7,No,A few times a week,"Physical activities , Intellectual activities , Relaxation or self-care ",8.0,7,6.0,Poor,5,Family,25,Student,8,Balanced,None,null,8
+16/11/2024 14:39:48,18,Female,7,No,Daily,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",7.0,3,5.0,Average,7,Family,50,Student,7,Somewhat Healthy,None,null,5
+16/11/2024 14:53:38,21,Male,8,No,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",10.0,3,5.0,Poor,7,Family,24,Student,8,Balanced,None,null,4
+16/11/2024 15:07:43,25,Male,5,Yes,Rarely,"Intellectual activities , Digital hobbies , Relaxation or self-care ",10.0,5,7.0,Poor,7,Family,60,Both(Student and Employed),9,Unhealthy,Tobacco,Daily,1
+16/11/2024 15:11:19,21,Male,8,No,Rarely,Digital hobbies ,10.0,3,5.0,Average,5,Family,20,Student,7,Somewhat Healthy,None,null,6
+16/11/2024 15:26:46,21,Female,9,No,Rarely,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",5.0,4,8.0,Very Good,6,Alone,30,Student,7,Balanced,"None, ",null,3
+16/11/2024 15:30:09,21,Male,8,No,A few times a week,"Physical activities , Digital hobbies ",7.0,3,8.0,Good,5,Family,5,Student,8,Balanced,None,null,8
+16/11/2024 15:38:22,22,Male,7,Yes,Never,"Creative activities , Intellectual activities , Relaxation or self-care ",4.0,6,9.0,Very Good,6,Roommates,40,Employed,5,Balanced,"Tobacco, Drugs",Daily,6
+16/11/2024 15:47:02,25,Female,1,Yes,Never,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care , Sightseeing",5.0,1,7.0,Good,10,Alone,24,Both(Student and Employed),1,Unhealthy,"Tobacco, Alcohol, Energy drinks",Daily,10
+16/11/2024 16:06:10,49,Male,10,No,Rarely,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,3,6.0,Very Good,7,Family,65,Employed,7,Very Healthy,None,null,5
+16/11/2024 16:16:05,19,Female,4,No,Rarely,"Physical activities , Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,6,8.0,Average,7,Roommates,18,Student,3,Somewhat Healthy,None,null,5
+16/11/2024 16:56:36,18,Female,4,No,Rarely,"Relaxation or self-care , Movies",6.0,5,6.0,Poor,5,Roommates,20,Student,1,Somewhat Healthy,None,null,7
+16/11/2024 17:03:14,21,Female,9,Yes,A few times a week,"Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",8.0,3,7.0,Poor,4,Roommates,26,Student,6,Balanced,"Tobacco, Alcohol",Occasionally,5
+16/11/2024 17:06:07,21,Male,7,Yes,A few times a week,"Physical activities , Intellectual activities , Digital hobbies ",5.0,9,10.0,Good,7,Family,4,Student,1,Somewhat Healthy,None,null,5
+16/11/2024 17:25:08,23,Male,9,No,A few times a week,"Physical activities , Digital hobbies , Relaxation or self-care ",5.0,2,5.0,Average,7,Family,70,Employed,1,Balanced,Tobacco,Daily,7
+16/11/2024 17:39:34,21,Male,7,Yes,A few times a week,Physical activities ,4.0,8,8.0,Poor,5,Alone,12,Both(Student and Employed),5,Unhealthy,None,null,7
+16/11/2024 20:35:21,24,Male,8,No,Once a week,"Physical activities , Digital hobbies , Relaxation or self-care ",3.0,6,9.0,Average,6,Roommates,40,Student,3,Balanced,Alcohol,Occasionally,8
+16/11/2024 20:44:47,28,Female,7,Yes,Rarely,"Digital hobbies , Relaxation or self-care ",10.0,8,6.0,Very Poor,8,Family,40,Employed,7,Somewhat Healthy,"Tobacco, Alcohol",Frequently,5
+16/11/2024 20:49:49,33,Female,8,Yes,A few times a week,"Physical activities , Intellectual activities ",1.0,1,9.0,Average,8,Family,50,Employed,8,Balanced,None,null,5
+16/11/2024 20:50:15,22,Male,9,Yes,A few times a week,Physical activities ,20.0,5,8.0,Good,10,Alone,12,Student,5,Balanced,Tobacco,Frequently,5
+16/11/2024 20:54:32,28,Female,8,No,A few times a week,"Physical activities , Intellectual activities ",9.0,4,7.0,Average,7,Alone,40,Employed,6,Somewhat Healthy,None,Rarely,8
+16/11/2024 21:03:50,41,Male,8,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies , Relaxation or self-care ",2.0,7,8.0,Average,7,Family,36,Employed,8,Balanced,None,null,6
+17/11/2024 00:20:05,22,Female,8,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Relaxation or self-care ",7.0,5,6.0,Good,8,Alone,20,Student,7,Balanced,Alcohol,Occasionally,9
+17/11/2024 00:40:43,54,Female,10,Yes,A few times a week,"Physical activities , Intellectual activities ",8.0,1,9.0,Average,8,Family,60,Employed,8,Unhealthy,Tobacco,Daily,8
+17/11/2024 00:47:52,26,Male,9,No,Daily,"Physical activities , Digital hobbies ",20.0,2,6.0,Average,8,Family,15,Student,9,Somewhat Healthy,Tobacco,Occasionally,5
+17/11/2024 02:08:57,23,Female,9,Yes,Rarely,"Creative activities , Digital hobbies ",5.0,5,7.0,Average,7,Roommates,10,Student,6,Unhealthy,None,null,5
+17/11/2024 03:38:53,20,Female,2,Yes,Once a week,"Creative activities , Digital hobbies ",13.0,3,8.0,Good,6,Family,150,Student,3,Balanced,Tobacco,Frequently,3
+17/11/2024 09:18:55,21,Male,8,No,A few times a week,Digital hobbies ,4.0,5,6.0,Good,7,Family,5,Student,7,Balanced,None,Rarely,7
+17/11/2024 11:03:19,21,Male,7,No,Rarely,"Digital hobbies , Relaxation or self-care ",6.0,1,3.0,Very Poor,7,Alone,40,Both(Student and Employed),7,Somewhat Healthy,Alcohol,Occasionally,6
+17/11/2024 14:39:40,30,Female,7,Prefer not to say,Rarely,Relaxation or self-care ,3.0,6,8.0,Poor,6,Family,30,Employed,7,Unhealthy,None,null,2
+17/11/2024 19:27:50,24,Female,7,Yes,A few times a week,"Creative activities , Intellectual activities , Sleeping",7.0,8,6.0,Average,6,Family,14,Student,3,Somewhat Healthy,None,null,3
+17/11/2024 21:46:34,20,Male,8,No,A few times a week,"Physical activities , Digital hobbies , Relaxation or self-care ",12.0,7,7.0,Average,8,Family,28,Student,7,Somewhat Healthy,None,null,4
+17/11/2024 21:52:59,23,Female,1,Yes,Rarely,"Intellectual activities , Relaxation or self-care ",9.0,7,6.0,Average,5,Family,8,Student,5,Unhealthy,None,null,1
+17/11/2024 21:56:50,20,Male,3,No,Rarely,"Physical activities , Creative activities , Digital hobbies ",8.0,3,6.0,Poor,5,Roommates,26,Student,4,Unhealthy,None,null,3
+17/11/2024 21:57:05,20,Male,4,Prefer not to say,Rarely,"Physical activities , Music",8.0,5,5.0,Good,2,Family,7,Student,5,Unhealthy,Tobacco,Frequently,8
+17/11/2024 22:00:02,20,Female,4,Yes,Rarely,"Physical activities , Relaxation or self-care ",10.0,8,6.0,Poor,6,Family,12,Student,5,Unhealthy,None,null,5
+17/11/2024 22:31:36,22,Male,7,No,Rarely,Digital hobbies ,4.0,9,6.0,Average,5,Family,4,Student,5,Somewhat Healthy,None,null,7
+17/11/2024 22:38:15,22,Female,4,Yes,Rarely,Physical activities ,7.0,2,8.0,Good,8,Alone,24,Student,7,Balanced,"Tobacco, Alcohol",Occasionally,8
+17/11/2024 22:41:42,20,Female,8,Yes,Once a week,"Physical activities , Relaxation or self-care ",0.0,4,6.0,Average,7,Roommates,5,Student,6,Somewhat Healthy,"Tobacco, Alcohol",Rarely,8
+17/11/2024 22:45:14,21,Male,5,No,A few times a week,"Physical activities , Digital hobbies ",5.0,4,7.0,Average,9,Family,24,Student,3,Balanced,None,null,6
+17/11/2024 23:01:12,20,Male,9,No,Daily,"Physical activities , Intellectual activities , Digital hobbies ",4.0,5,9.0,Average,7,Roommates,3,Student,8,Very Healthy,None,null,3
+17/11/2024 23:16:26,21,Female,4,No,Rarely,"Physical activities , Creative activities , Relaxation or self-care ",6.0,7,6.0,Poor,2,Roommates,5,Student,5,Unhealthy,None,null,10
+17/11/2024 23:22:26,22,Female,7,No,Rarely,Intellectual activities ,6.0,4,5.0,Average,4,Family,65,Student,7,Somewhat Healthy,None,null,5
+17/11/2024 23:26:14,21,Female,8,No,Never,Relaxation or self-care ,3.0,4,9.0,Average,2,Family,35,Student,8,Unhealthy,None,null,9
+17/11/2024 23:27:10,22,Male,7,No,A few times a week,Digital hobbies ,10.0,5,6.0,Average,9,Family,4,Student,5,Somewhat Healthy,None,null,7
+17/11/2024 23:28:53,21,Male,8,No,A few times a week,Physical activities ,7.0,4,7.0,Good,8,Roommates,50,Both(Student and Employed),10,Unhealthy,None,null,5
+17/11/2024 23:36:33,21,Female,8,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Relaxation or self-care ",3.0,5,8.0,Average,7,Family,45,Both(Student and Employed),8,Balanced,None,null,5
+17/11/2024 23:52:47,20,Female,4,Yes,Rarely,"Relaxation or self-care , Drawing ",8.0,9,9.0,Poor,5,Family,6,Student,5,Unhealthy,Tobacco,Occasionally,6
+18/11/2024 06:04:39,22,Male,4,Yes,Daily,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",9.0,7,8.0,Good,5,Family,40,Employed,5,Somewhat Healthy,None,null,7
+18/11/2024 06:20:53,22,Male,7,Yes,Once a week,Digital hobbies ,6.0,8,7.0,Poor,2,Family,24,Student,4,Unhealthy,I am not sure but they were white pills,Rarely,2
+18/11/2024 08:51:13,21,Female,10,Prefer not to say,Once a week,"Intellectual activities , Digital hobbies ",12.0,4,8.0,Good,8,Family,8,Student,8,Balanced,None,null,5
+18/11/2024 13:32:20,21,Female,4,No,Rarely,"Digital hobbies , Relaxation or self-care ",6.0,7,7.0,Average,4,Family,24,Student,3,Unhealthy,None,null,4
+18/11/2024 16:00:13,22,Male,6,No,A few times a week,Physical activities ,5.0,7,6.0,Good,1,Family,24,Student,6,Balanced,None,null,8
+18/11/2024 20:43:51,21,Female,5,No,A few times a week,"Physical activities , Digital hobbies ",3.0,3,5.0,Average,6,Family,24,Student,5,Somewhat Healthy,None,null,8
+20/11/2024 13:29:25,23,Female,6,Yes,A few times a week,"Physical activities , Creative activities , Intellectual activities , Digital hobbies ",15.0,1,7.0,Average,7,Alone,30,Student,8,Balanced,None,null,7
+20/11/2024 23:01:54,29,Male,7,Yes,Daily,"Physical activities , Intellectual activities , Relaxation or self-care ",4.0,3,8.0,Very Good,4,Alone,88,Employed,9,Balanced,"Tobacco, Alcohol, Drugs",Frequently,8
